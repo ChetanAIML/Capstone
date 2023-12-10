@@ -1,5 +1,5 @@
-# Capstone
-This is final semester Capstone project.
+# Capstone : Human face detection
+
 
 Human_Face_Detection.ipynb :  This file contains logic of building custom models from scratch and training them on our choosen dataset.
 

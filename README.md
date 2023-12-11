@@ -1,7 +1,8 @@
 # Capstone : Human face detection
 
 
-## Human_Face_Detection.ipynb :  This file contains logic of building custom models from scratch and training them on our choosen dataset.
+## Human_Face_Detection.ipynb 
+This file contains logic of building custom models from scratch and training them on our choosen dataset.
 
 
 
@@ -17,7 +18,8 @@
   Predictions : this sections contains predictions from all the models to compare model performance.
 
 
-Human_Face_Detection_YOLOv8.ipynb :  This file contains logic to train a model to detect a human face from an image by leveraging the YOLOv8 Model
+## Human_Face_Detection_YOLOv8.ipynb 
+This file contains logic to train a model to detect a human face from an image by leveraging the YOLOv8 Model
 
   Downloading Images: Download the dataset from Kaggle using opendatasets API
 
